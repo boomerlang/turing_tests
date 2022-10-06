@@ -1,2 +1,4 @@
-go  test -v
+$ cd test_lib
+
+$ go  test -v
 
