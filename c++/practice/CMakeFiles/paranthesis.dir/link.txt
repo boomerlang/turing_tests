@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/paranthesis.dir/paranthesis.cpp.o -o paranthesis  lib/libgtest_main.a lib/libgtest.a 

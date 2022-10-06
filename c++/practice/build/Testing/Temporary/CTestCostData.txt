@@ -1,0 +1,10 @@
+ParanthesisTest.BasicAssertions 2 0
+ParanthesisTest.BasicAssertions1 3 0.000550973
+ParanthesisTest.BasicAssertions2 2 0.000807417
+ParanthesisTest.BasicAssertions3 2 0.000846312
+ParanthesisTest.BasicAssertions4 2 0.000801992
+ParanthesisTest.BasicAssertions1 0 0
+ParanthesisTest.BasicAssertions2 1 0.00177213
+ParanthesisTest.BasicAssertions3 1 0.0018404
+---
+ParanthesisTest.BasicAssertions1

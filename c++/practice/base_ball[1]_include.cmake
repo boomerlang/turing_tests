@@ -1,0 +1,5 @@
+if(EXISTS "/home/andu/web/turing_tests/practice/base_ball[1]_tests.cmake")
+  include("/home/andu/web/turing_tests/practice/base_ball[1]_tests.cmake")
+else()
+  add_test(base_ball_NOT_BUILT base_ball_NOT_BUILT)
+endif()

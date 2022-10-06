@@ -1,0 +1,5 @@
+if(EXISTS "/home/andu/web/turing_tests/practice/build/paranthesis[1]_tests.cmake")
+  include("/home/andu/web/turing_tests/practice/build/paranthesis[1]_tests.cmake")
+else()
+  add_test(paranthesis_NOT_BUILT paranthesis_NOT_BUILT)
+endif()

@@ -1,0 +1,194 @@
+Start testing: Sep 19 12:38 EEST
+----------------------------------------------------------
+1/7 Testing: ParanthesisTest.BasicAssertions1
+1/7 Test: ParanthesisTest.BasicAssertions1
+Command: "/home/andu/web/turing_tests/practice/build/base_ball" "--gtest_filter=ParanthesisTest.BasicAssertions1" "--gtest_also_run_disabled_tests"
+Directory: /home/andu/web/turing_tests/practice/build
+"ParanthesisTest.BasicAssertions1" start time: Sep 19 12:38 EEST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ParanthesisTest.BasicAssertions1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParanthesisTest
+[ RUN      ] ParanthesisTest.BasicAssertions1
+/home/andu/web/turing_tests/practice/base_ball.cpp:48: Failure
+Expected equality of these values:
+  sum
+    Which is: 30
+  15
+[  FAILED  ] ParanthesisTest.BasicAssertions1 (0 ms)
+[----------] 1 test from ParanthesisTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] ParanthesisTest.BasicAssertions1
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"ParanthesisTest.BasicAssertions1" end time: Sep 19 12:38 EEST
+"ParanthesisTest.BasicAssertions1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/7 Testing: ParanthesisTest.BasicAssertions2
+2/7 Test: ParanthesisTest.BasicAssertions2
+Command: "/home/andu/web/turing_tests/practice/build/base_ball" "--gtest_filter=ParanthesisTest.BasicAssertions2" "--gtest_also_run_disabled_tests"
+Directory: /home/andu/web/turing_tests/practice/build
+"ParanthesisTest.BasicAssertions2" start time: Sep 19 12:38 EEST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ParanthesisTest.BasicAssertions2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParanthesisTest
+[ RUN      ] ParanthesisTest.BasicAssertions2
+[       OK ] ParanthesisTest.BasicAssertions2 (0 ms)
+[----------] 1 test from ParanthesisTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ParanthesisTest.BasicAssertions2" end time: Sep 19 12:38 EEST
+"ParanthesisTest.BasicAssertions2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/7 Testing: ParanthesisTest.BasicAssertions3
+3/7 Test: ParanthesisTest.BasicAssertions3
+Command: "/home/andu/web/turing_tests/practice/build/base_ball" "--gtest_filter=ParanthesisTest.BasicAssertions3" "--gtest_also_run_disabled_tests"
+Directory: /home/andu/web/turing_tests/practice/build
+"ParanthesisTest.BasicAssertions3" start time: Sep 19 12:38 EEST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ParanthesisTest.BasicAssertions3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParanthesisTest
+[ RUN      ] ParanthesisTest.BasicAssertions3
+[       OK ] ParanthesisTest.BasicAssertions3 (0 ms)
+[----------] 1 test from ParanthesisTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ParanthesisTest.BasicAssertions3" end time: Sep 19 12:38 EEST
+"ParanthesisTest.BasicAssertions3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/7 Testing: ParanthesisTest.BasicAssertions1
+4/7 Test: ParanthesisTest.BasicAssertions1
+Command: "/home/andu/web/turing_tests/practice/build/paranthesis" "--gtest_filter=ParanthesisTest.BasicAssertions1" "--gtest_also_run_disabled_tests"
+Directory: /home/andu/web/turing_tests/practice/build
+"ParanthesisTest.BasicAssertions1" start time: Sep 19 12:38 EEST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ParanthesisTest.BasicAssertions1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParanthesisTest
+[ RUN      ] ParanthesisTest.BasicAssertions1
+[       OK ] ParanthesisTest.BasicAssertions1 (0 ms)
+[----------] 1 test from ParanthesisTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ParanthesisTest.BasicAssertions1" end time: Sep 19 12:38 EEST
+"ParanthesisTest.BasicAssertions1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/7 Testing: ParanthesisTest.BasicAssertions2
+5/7 Test: ParanthesisTest.BasicAssertions2
+Command: "/home/andu/web/turing_tests/practice/build/paranthesis" "--gtest_filter=ParanthesisTest.BasicAssertions2" "--gtest_also_run_disabled_tests"
+Directory: /home/andu/web/turing_tests/practice/build
+"ParanthesisTest.BasicAssertions2" start time: Sep 19 12:38 EEST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ParanthesisTest.BasicAssertions2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParanthesisTest
+[ RUN      ] ParanthesisTest.BasicAssertions2
+[       OK ] ParanthesisTest.BasicAssertions2 (0 ms)
+[----------] 1 test from ParanthesisTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ParanthesisTest.BasicAssertions2" end time: Sep 19 12:38 EEST
+"ParanthesisTest.BasicAssertions2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/7 Testing: ParanthesisTest.BasicAssertions3
+6/7 Test: ParanthesisTest.BasicAssertions3
+Command: "/home/andu/web/turing_tests/practice/build/paranthesis" "--gtest_filter=ParanthesisTest.BasicAssertions3" "--gtest_also_run_disabled_tests"
+Directory: /home/andu/web/turing_tests/practice/build
+"ParanthesisTest.BasicAssertions3" start time: Sep 19 12:38 EEST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ParanthesisTest.BasicAssertions3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParanthesisTest
+[ RUN      ] ParanthesisTest.BasicAssertions3
+[       OK ] ParanthesisTest.BasicAssertions3 (0 ms)
+[----------] 1 test from ParanthesisTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ParanthesisTest.BasicAssertions3" end time: Sep 19 12:38 EEST
+"ParanthesisTest.BasicAssertions3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: ParanthesisTest.BasicAssertions4
+7/7 Test: ParanthesisTest.BasicAssertions4
+Command: "/home/andu/web/turing_tests/practice/build/paranthesis" "--gtest_filter=ParanthesisTest.BasicAssertions4" "--gtest_also_run_disabled_tests"
+Directory: /home/andu/web/turing_tests/practice/build
+"ParanthesisTest.BasicAssertions4" start time: Sep 19 12:38 EEST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ParanthesisTest.BasicAssertions4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParanthesisTest
+[ RUN      ] ParanthesisTest.BasicAssertions4
+[       OK ] ParanthesisTest.BasicAssertions4 (0 ms)
+[----------] 1 test from ParanthesisTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ParanthesisTest.BasicAssertions4" end time: Sep 19 12:38 EEST
+"ParanthesisTest.BasicAssertions4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 19 12:38 EEST

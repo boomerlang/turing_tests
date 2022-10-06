@@ -1,0 +1,7 @@
+add_test( ParanthesisTest.BasicAssertions1 /home/andu/web/turing_tests/practice/build/base_ball [==[--gtest_filter=ParanthesisTest.BasicAssertions1]==] --gtest_also_run_disabled_tests)
+set_tests_properties( ParanthesisTest.BasicAssertions1 PROPERTIES WORKING_DIRECTORY /home/andu/web/turing_tests/practice/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( ParanthesisTest.BasicAssertions2 /home/andu/web/turing_tests/practice/build/base_ball [==[--gtest_filter=ParanthesisTest.BasicAssertions2]==] --gtest_also_run_disabled_tests)
+set_tests_properties( ParanthesisTest.BasicAssertions2 PROPERTIES WORKING_DIRECTORY /home/andu/web/turing_tests/practice/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( ParanthesisTest.BasicAssertions3 /home/andu/web/turing_tests/practice/build/base_ball [==[--gtest_filter=ParanthesisTest.BasicAssertions3]==] --gtest_also_run_disabled_tests)
+set_tests_properties( ParanthesisTest.BasicAssertions3 PROPERTIES WORKING_DIRECTORY /home/andu/web/turing_tests/practice/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( base_ball_TESTS ParanthesisTest.BasicAssertions1 ParanthesisTest.BasicAssertions2 ParanthesisTest.BasicAssertions3)

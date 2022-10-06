@@ -1,0 +1,35 @@
+Start testing: Sep 19 12:28 EEST
+----------------------------------------------------------
+Unable to find executable: base_ball_NOT_BUILT
+1/2 Testing: base_ball_NOT_BUILT
+1/2 Test: base_ball_NOT_BUILT
+Command: ""
+Directory: /home/andu/web/turing_tests/practice
+"base_ball_NOT_BUILT" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"base_ball_NOT_BUILT" end time: Sep 19 12:28 EEST
+"base_ball_NOT_BUILT" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: paranthesis_NOT_BUILT
+2/2 Testing: paranthesis_NOT_BUILT
+2/2 Test: paranthesis_NOT_BUILT
+Command: ""
+Directory: /home/andu/web/turing_tests/practice
+"paranthesis_NOT_BUILT" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"paranthesis_NOT_BUILT" end time: Sep 19 12:28 EEST
+"paranthesis_NOT_BUILT" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 19 12:28 EEST
