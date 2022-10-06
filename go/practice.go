@@ -2,12 +2,10 @@ package main
 
 import (
 	"fmt"
-	// "time"
 	"boomerlang.eu/turing/v2/test_lib"
 )
 
 func main () {
-	// log.Println("test passed")
 
 	input := []string{"5","2","C","D","+"}
 
